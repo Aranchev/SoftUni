@@ -27,4 +27,4 @@ if c == b-c: # най-голямо число == сборът на всички 
 # TODO: Aко не: "No" и на нов ред "Diff = " + разликата между най-големия елемент и сумата на останалите (по абсолютна стойност)
 
 else:
-    print(f'No\nDiff = {abs(c - (b-c))}')
+    print(f'No\nDiff = {abs(c - (b-c))}') # The abs() function returns the absolute value of the specified number
