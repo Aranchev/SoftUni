@@ -9,8 +9,6 @@ for each in range(tabs):
         salary -= 100
     if website == "Reddit":
         salary -= 50
-    else:
-        continue
 
 if salary <= 0:
     print('You have lost your salary.')
