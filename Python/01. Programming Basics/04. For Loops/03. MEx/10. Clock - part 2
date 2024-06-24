@@ -1,8 +1,9 @@
 a = 0
-c = 0
-for i in range(24):
+b = 0
+for x in range(24):
     a += 1
-    for b in range(60):
-        c += 1
-        for x in range(60):
-            print(f'{i} : {b} : {x}')
+    for y in range(60):
+        b += 1
+        for z in range(60):
+            print(f'{x} : {y} : {z}')
+
