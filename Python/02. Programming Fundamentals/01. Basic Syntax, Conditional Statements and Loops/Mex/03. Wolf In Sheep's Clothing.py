@@ -1,3 +1,4 @@
+# For deeper undarstanding, check the Jupyter file
 a = input()
 b = ''
 
